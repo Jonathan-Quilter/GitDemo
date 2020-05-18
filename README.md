@@ -8,4 +8,5 @@ Repo for learning Git
 - [Lesson 5](Lessons/Lesson5.md) - Rebasing your branch
 - [Lesson 6](Lessons/Lesson6.md) - Cleanup those branches
 
-
+- [Lesson 7] Actions
+![CI](https://github.com/Jonathan-Quilter/GitDemo/workflows/CI/badge.svg)
